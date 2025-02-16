@@ -1,0 +1,5 @@
+.idea
+seihub.iml
+docker-compose.yml
+oracle/
+solr_dados/
